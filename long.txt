@@ -1,0 +1,17 @@
+go south
+go south
+go south
+go south
+go south
+go south
+go south
+go south
+go south
+go south
+go south
+go west
+go south
+go south 
+go south
+go south
+go up

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TransporterRoom
+comment0.text=\r\n\ Class\ TransporterRoom\r\n\ @author\ Alois\ Fournier\ 18.05.23\r\n
+comment1.params=pRoomName\ pImageName\ pIsTrapDoor
+comment1.target=TransporterRoom(java.lang.String,\ java.lang.String,\ boolean)
+comment1.text=\r\n\ Constructeur\ de\ la\ classe\ TransporterRoom\r\n\ @param\ pRoomName\r\n\ @param\ pImageName\r\n\ @param\ pIsTrapDoor\r\n
+comment2.params=pRooms
+comment2.target=void\ addRooms(java.util.ArrayList)
+comment2.text=\r\n\ Ajoute\ une\ collection\ de\ Room\ au\ randomizer\r\n\ @param\ pRooms\r\n
+comment3.params=
+comment3.target=Room\ getRandomExit()
+comment3.text=\r\n\ Retourne\ une\ sortie\ al\u00E9atoire\ d'apr\u00E8s\ l'ArrayList\r\n\ \r\n\ @param\ pDirection\ Direction\ to\ get\ the\ exit\r\n\ @return\ the\ exit\ room\ (random)\r\n
+numComments=4

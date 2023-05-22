@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Beamer
+comment0.text=\r\n\ Un\ beamer\ est\ un\ objet\ qui\ permet\ de\ se\ t\u00E9l\u00E9porter\ dans\ une\ salle\r\n\ pr\u00E9c\u00E9demment\ m\u00E9moris\u00E9e\r\n\ \r\n\ @author\ Alois\ Fournier\ 27.04.23\r\n
+comment1.params=pName\ pDescription\ pWorth\ pWeight
+comment1.target=Beamer(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Constructeur\ de\ la\ classe\ Beamer\r\n\ \r\n\ @param\ pName\r\n\ @param\ pDescription\r\n\ @param\ pWorth\r\n\ @param\ pWeight\r\n
+comment2.params=
+comment2.target=Room\ getSavedRoom()
+comment2.text=\r\n\ @return\ la\ Roomm\ sauvegard\u00E9e\r\n
+comment3.params=
+comment3.target=boolean\ isCharged()
+comment3.text=\r\n\ @return\ vrai\ si\ le\ Beamer\ est\ charg\u00E9\r\n
+comment4.params=pRoom
+comment4.target=void\ charge(Room)
+comment4.text=\r\n\ Charge\ le\ Beamer\ avec\ la\ salle\ pass\u00E9e\ en\ param\u00E8tre\r\n\ \r\n\ @param\ pRoom\ the\ room\ to\ save\r\n
+comment5.params=
+comment5.target=void\ uncharge()
+comment5.text=\r\n\ D\u00E9charge\ le\ Beamer\r\n
+comment6.params=pPlayer
+comment6.target=void\ fire(Player)
+comment6.text=\r\n\ Tire\ le\ Beamer\r\n\ \r\n\ @param\ pPlayer\r\n
+numComments=7

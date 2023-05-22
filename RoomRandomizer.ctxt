@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=RoomRandomizer
+comment0.text=\r\n\ RoomRandomizer\ Class\r\n
+comment1.params=
+comment1.target=RoomRandomizer()
+comment1.text=\r\n\ Constructor\ of\ RoomRandomizer\ class\r\n\ \r\n\ @param\ pRooms\ The\ ArrayList\ containing\ all\ GameEngine's\ Rooms\r\n
+comment2.params=pRoom
+comment2.target=void\ addRoom(Room)
+comment2.text=\r\n\ Add\ a\ Room\ to\ the\ ArrayList\r\n\ \r\n\ @param\ pRoom\ Room\ to\ add\r\n
+comment3.params=pRooms
+comment3.target=void\ addRooms(java.util.ArrayList)
+comment3.text=\r\n\ Add\ a\ collection\ of\ Rooms\ to\ the\ ArrayList\r\n\ \r\n\ @return\r\n
+comment4.params=
+comment4.target=Room\ getRandomRoom()
+comment4.text=\r\n\ Get\ a\ random\ room\r\n\ \r\n\ @return\ the\ random\ Room\ generated\r\n
+numComments=5

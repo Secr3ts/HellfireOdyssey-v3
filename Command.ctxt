@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Command
+comment0.text=\r\n\ Classe\ Command\ -\ une\ commande\ du\ jeu\ d'aventure\ Zuul.\r\n\r\n\ @author\ Alo\u00EFs\ Fournier\r\n
+comment1.params=pFirstWord\ pSecondWord
+comment1.target=Command(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructeur\ de\ la\ classe\ Command\r\n\ @param\ pFirstWord\ Le\ premier\ mot\ de\ la\ commande\r\n\ @param\ pSecondWord\ Le\ second\ mot\ de\ la\ commande\ \ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getCommandWord()
+comment2.text=\r\n\ Retourne\ le\ premier\ mot\ de\ la\ commande\r\n\ @return\ Le\ premier\ mot\ de\ la\ commande\r\n
+comment3.params=
+comment3.target=java.lang.String\ getSecondWord()
+comment3.text=\r\n\ Retourne\ le\ second\ mot\ de\ la\ commande\r\n\ @return\ Le\ second\ mot\ de\ la\ commande\r\n
+comment4.params=pNewCommandWord
+comment4.target=void\ setCommandWord(java.lang.String)
+comment4.text=\r\n\ Modifie\ le\ premier\ mot\ de\ la\ commande\r\n\ @param\ pNewCommandWord\ Le\ nouveau\ premier\ mot\ de\ la\ commande\r\n
+comment5.params=pNewSecondWord
+comment5.target=void\ setSecondWord(java.lang.String)
+comment5.text=\r\n\ Modifie\ le\ second\ mot\ de\ la\ commande\r\n\ @param\ pNewSecondWord\ Le\ nouveau\ second\ mot\ de\ la\ commande\r\n
+comment6.params=
+comment6.target=boolean\ hasSecondWord()
+comment6.text=\r\n\ Retourne\ false\ si\ la\ commande\ n'a\ pas\ de\ second\ mot\r\n\ @return\ false\ si\ la\ commande\ n'a\ pas\ de\ second\ mot\r\n
+comment7.params=
+comment7.target=boolean\ isUnknown()
+comment7.text=\r\n\ @return\ true\ si\ la\ commande\ est\ inconnue\r\n
+numComments=8
